@@ -28,12 +28,12 @@ function App() {
 
   return (
     <div>
-      <h2>Todo List</h2>
+      <h1>Todo List</h1>
       <input
         type="text"
         value={newTodo}
         onChange={(e) => setNewTodo(e.target.value)}
-        placeholder="Add New To-Do Here"
+        placeholder="Add New"
       />
       <button onClick={handleAddTodo}>Add</button>
       <TodoList
