@@ -4,12 +4,18 @@ div {
 
 input {
   margin-right: 10px;
+  color: rgb(59, 3, 133);
 }
 
 button {
   margin-left: 10px;
+  color: rgb(170, 5, 5);
 }
 
 span {
   margin-left: 10px;
+}
+
+h2  {
+  color: blue;
 }

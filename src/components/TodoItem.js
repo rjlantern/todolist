@@ -11,7 +11,7 @@ function TodoItem({ todo, onToggle, onDelete }) {
       <span style={{ textDecoration: todo.completed ? 'line-through' : 'none' }}>
         {todo.text}
       </span>
-      <button onClick={() => onDelete(todo.id)}>Delete</button>
+      <button onClick={() => onDelete(todo.id)}>Remove</button>
     </div>
   );
 }
