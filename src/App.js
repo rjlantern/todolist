@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div>
-      <h1>Todo List</h1>
+      <h2>Todo List</h2>
       <input
         type="text"
         value={newTodo}
