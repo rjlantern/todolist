@@ -1,5 +1,6 @@
 div {
   margin: 20px;
+  background-color: cornsilk;
 }
 
 input {
@@ -17,6 +18,7 @@ button {
 
 span {
   margin-left: 10px;
+  background-color: aliceblue;
 }
 
 h1{
