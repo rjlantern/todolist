@@ -1,6 +1,5 @@
 div {
   margin: 20px;
-  background-color: cornsilk;
 }
 
 input {
@@ -11,7 +10,7 @@ input {
 
 button {
   margin-left: 10px;
-  background-color: rgb(241, 107, 107);
+  background-color: rgb(236, 248, 68);
   color: darkblue;
 
 }
