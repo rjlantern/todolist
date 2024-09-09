@@ -33,7 +33,7 @@ function App() {
         type="text"
         value={newTodo}
         onChange={(e) => setNewTodo(e.target.value)}
-        placeholder="Add a new todo"
+        placeholder="Add a new To-Do"
       />
       <button onClick={handleAddTodo}>Add</button>
       <TodoList
